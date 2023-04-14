@@ -1,0 +1,15 @@
+/Users/falktreudt/Projects/UniTest/UniTest/bin/Debug/net7.0/UniTest
+/Users/falktreudt/Projects/UniTest/UniTest/bin/Debug/net7.0/UniTest.deps.json
+/Users/falktreudt/Projects/UniTest/UniTest/bin/Debug/net7.0/UniTest.runtimeconfig.json
+/Users/falktreudt/Projects/UniTest/UniTest/bin/Debug/net7.0/UniTest.dll
+/Users/falktreudt/Projects/UniTest/UniTest/bin/Debug/net7.0/UniTest.pdb
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/UniTest.csproj.AssemblyReference.cache
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/UniTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/UniTest.AssemblyInfoInputs.cache
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/UniTest.AssemblyInfo.cs
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/UniTest.csproj.CoreCompileInputs.cache
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/UniTest.dll
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/refint/UniTest.dll
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/UniTest.pdb
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/UniTest.genruntimeconfig.cache
+/Users/falktreudt/Projects/UniTest/UniTest/obj/Debug/net7.0/ref/UniTest.dll

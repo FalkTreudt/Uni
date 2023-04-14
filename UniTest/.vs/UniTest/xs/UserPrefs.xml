@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E5038176-4252-40A6-829B-97355E33C193}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UniTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UniTest/Konto.cs">
+    <Files>
+      <File FileName="UniTest/Program.cs" Line="22" Column="1" />
+      <File FileName="UniTest/EmptyClass.cs" Line="21" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UniTest" expanded="True">
+            <Node name="UniTest" expanded="True">
+              <Node name="Konto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
